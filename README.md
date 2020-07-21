@@ -9,5 +9,5 @@ All FFmpeg features exposed by FFmpeg.Autogen will be available, with c# classes
 This is a brand new project, there's an example project where we can stream video from an rdp source into a texture.
 
 ## License
-This project is under GPLv3 (which means that if you use it you should provide the source and need my authorization to use it commercially).
+This project is under GPLv3 (which means that if you use it you should provide the source of any changes on this library even if done commercially).
 
